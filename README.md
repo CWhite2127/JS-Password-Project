@@ -23,3 +23,9 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+**# Screenshot**
+![_C__Users_cwhit_js-password-project_JS-Password-Project_index html](https://user-images.githubusercontent.com/123609107/218269154-7d49a339-b96b-4a77-951e-0a01b6556308.png)
+
+**# Link**
+https://cwhite2127.github.io/JS-Password-Project/
